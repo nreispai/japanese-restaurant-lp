@@ -33,10 +33,6 @@ The repository contains the following main directories and files:
 
 We welcome contributions! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) file for details.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Contact
 
 If you have any questions, feel free to open an issue or submit a pull request.
